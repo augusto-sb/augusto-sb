@@ -1,5 +1,26 @@
 ## Hi there 👋
 
+Experience:
+
+* Kubernetes
+  * Kubectl
+  * Helm
+  * Velero
+* Docker
+  * Compose
+* Node.js
+  * NestJS
+  * Typescript
+* RabbitMQ
+* Keycloak
+* MinIO
+* Databases
+  * MySQL
+  * MongoDB
+* Linux
+
+
+
 <!--
 **augusto-sb/augusto-sb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
