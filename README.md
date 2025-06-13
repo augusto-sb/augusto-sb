@@ -6,6 +6,7 @@ Experience:
   * Kubectl
   * Helm
   * Velero
+  * Kubespray
 * Docker
   * Compose
 * Node.js
@@ -18,7 +19,11 @@ Experience:
   * MySQL
   * MongoDB
 * Linux
-
+* Proxmox
+* Reverse Proxy
+  * Traefik
+  * nginx
+  * HAProxy
 
 
 <!--
